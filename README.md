@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Adriano Santos
 
-- 🌱 Estudante de Typescript
+- 🌱 Estudante de Desenvolvimento Web
 - 📫 Contate-me no e-mail: adriano.santosars91@gmail.com
 - 😄 Pronouns: ele/dele
 
