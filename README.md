@@ -27,7 +27,7 @@
   <img align="center" alt="Ars-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <! - <img align="center" alt="Ars-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ars-Python" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=050505">
-  <img align="center" alt="Ars-Python" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=050505">
+  <img align="center" alt="Ars-Python" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=050505">
   <img align="center" alt="Ars-Python" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=050505">
   <! - <img align="center" alt="Ars-Python" height="30" width="40" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=050505">
   <! - <img align="center" alt="Ars-Python" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=050505">
