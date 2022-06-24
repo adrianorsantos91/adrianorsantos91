@@ -42,7 +42,7 @@
  <br></br>
   <div align="center">
   <a href="https://github.com/adrianorsantos91">
-  <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=adrianorsantos91&theme=dracula&border=61dafb&hide_border=true#gh-dark-mode-only" alt="SrTonn" />
+  <img width=396 height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=adrianorsantos91&theme=dracula&border=61dafb&hide_border=true#gh-dark-mode-only" alt="SrTonn" />
   <img width=396 height="160em" src="https://github-readme-stats.vercel.app/api?username=adrianorsantos91&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true#gh-dark-mode-only"/>
   <img width=396 height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianorsantos91&layout=compact&langs_count=7&theme=dracula&hide_border=true#gh-dark-mode-only"/>
 </div>
