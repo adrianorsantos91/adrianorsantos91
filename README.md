@@ -36,7 +36,7 @@
   <! - <img align="center" alt="Ars-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <! - <img align="right" alt="Ars-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   <img align="center" alt="Ars-GoogleAds" height="30" width="40" src="https://img.icons8.com/color/48/000000/google-ads.svg"/>
-<img align="center" alt="Ars-Figma" height="30" width="40" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNDgiIGhlaWdodD0iNDgiCnZpZXdCb3g9IjAgMCA0OCA0OCIKc3R5bGU9IiBmaWxsOiMwMDAwMDA7Ij48cGF0aCBmaWxsPSIjZTY0YTE5IiBkPSJNMjYsMTdoLThjLTMuODY2LDAtNy0zLjEzNC03LTd2MGMwLTMuODY2LDMuMTM0LTcsNy03aDhWMTd6Ij48L3BhdGg+PHBhdGggZmlsbD0iIzdjNGRmZiIgZD0iTTI1LDMxaC03Yy0zLjg2NiwwLTctMy4xMzQtNy03djBjMC0zLjg2NiwzLjEzNC03LDctN2g3VjMxeiI+PC9wYXRoPjxwYXRoIGZpbGw9IiM2NmJiNmEiIGQ9Ik0xOCw0NUwxOCw0NWMtMy44NjYsMC03LTMuMTM0LTctN3YwYzAtMy44NjYsMy4xMzQtNyw3LTdoN3Y3QzI1LDQxLjg2NiwyMS44NjYsNDUsMTgsNDV6Ij48L3BhdGg+PHBhdGggZmlsbD0iI2ZmNzA0MyIgZD0iTTMyLDE3aC03VjNoN2MzLjg2NiwwLDcsMy4xMzQsNyw3djBDMzksMTMuODY2LDM1Ljg2NiwxNywzMiwxN3oiPjwvcGF0aD48Y2lyY2xlIGN4PSIzMiIgY3k9IjI0IiByPSI3IiBmaWxsPSIjMjliNmY2Ij48L2NpcmNsZT48L3N2Zz4="/>
+<img src="https://img.icons8.com/color/96/000000/figma--v1.png"/>
 </div>
   <br></br>
 <div>
