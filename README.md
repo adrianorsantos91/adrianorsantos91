@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=adrianorsantos91&color=blue)
+![](https://komarev.com/ghpvc/?username=adrianorsantos91&color=blue&style=plastic)
 
 ### Olá! Eu sou o Adriano Santos
 
