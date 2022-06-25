@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=adrianorsantos91&color=blue)
+
 ### Olá! Eu sou o Adriano Santos
 
 - 🌱 Estudante de Desenvolvimento Web
