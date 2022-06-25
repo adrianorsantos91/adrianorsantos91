@@ -35,7 +35,7 @@
   <img align="center" alt="Ars-Python" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
   <! - <img align="center" alt="Ars-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <! - <img align="right" alt="Ars-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-  <img src="https://img.icons8.com/color/48/000000/google-ads.png"/>
+  <img align="center" alt="Ars-GoogleAds" height="30" width="40" src="https://img.icons8.com/color/48/000000/google-ads.png"/>
 </div>
   <br></br>
 <div>
