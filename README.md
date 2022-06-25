@@ -20,27 +20,27 @@
     
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ars-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <! – <img align="center" alt="Ars-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ars-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ars-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ars-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <! - <img align="center" alt="Ars-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Ars-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=050505">
-  <img align="center" alt="Ars-Mysql" height="30" width="40" src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=050505">
-  <img align="center" alt="Ars-Nodejs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=050505">
-  <! - <img align="center" alt="Ars-Nginx" height="30" width="40" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=050505">
-  <! - <img align="center" alt="Ars-Mongodb" height="30" width="40" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=050505">
-  <! - <img align="center" alt="Ars-Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=050505">
-  <img align="center" alt="Ars-Git" height="30" width="40" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
-  <! - <img align="center" alt="Ars-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Ars-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <! – <img align="center" alt="Ars-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Ars-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ars-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ars-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <! - <img align="center" alt="Ars-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Ars-Docker" height="40" width="50" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=050505">
+  <img align="center" alt="Ars-Mysql" height="40" width="50" src="https://icongr.am/devicon/mysql-plain.svg?size=148&color=ffffff">
+  <img align="center" alt="Ars-Nodejs" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=050505">
+  <! - <img align="center" alt="Ars-Nginx" height="40" width="50" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=050505">
+  <! - <img align="center" alt="Ars-Mongodb" height="40" width="50" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=050505">
+  <! - <img align="center" alt="Ars-Angular" height="40" width="50" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=050505">
+  <img align="center" alt="Ars-Git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">
+  <! - <img align="center" alt="Ars-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <! - <img align="right" alt="Ars-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-  <img align="center" alt="Ars-Sequelize:" height="30" width="40" src="https://icongr.am/devicon/express-original-wordmark.svg?size=148&color=currentColor">
-  <img align="center" alt="Ars-Sequelize:" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=148&color=currentColor">
-  <img align="center" alt="Ars-Sequelize:" height="30" width="40" src="https://icongr.am/devicon/sequelize-original.svg?size=148&color=currentColor">
-  <img align="center" alt="Ars-Sequelize:" height="30" width="40" src="https://icongr.am/devicon/linux-original.svg?size=148&color=currentColor">
-  <img align="center" alt="Ars-Trello:" height="30" width="40" src="https://icongr.am/devicon/trello-plain-wordmark.svg?size=148&color=currentColor">
-  <img align="center" alt="Ars-Slack" height="30" width="40" src="https://icongr.am/devicon/slack-original.svg?size=148&color=currentColor">
+  <img align="center" alt="Ars-Express" height="50" width="60" src="https://icongr.am/devicon/express-original-wordmark.svg?size=148&color=ffffff">
+  <img align="center" alt="Ars-PostgreSQL" height="40" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=148&color=currentColor">
+  <img align="center" alt="Ars-Sequelize:" height="40" width="50" src="https://icongr.am/devicon/sequelize-original.svg?size=148&color=currentColor">
+  <img align="center" alt="Ars-Linux" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=148&color=currentColor">
+  <img align="center" alt="Ars-Trello" height="40" width="50" src="https://icongr.am/devicon/trello-plain.svg?size=148&color=ffffff">
+  <img align="center" alt="Ars-Slack" height="40" width="50" src="https://icongr.am/devicon/slack-original.svg?size=148&color=currentColor">
 </div>
   <br></br>
 <div>
