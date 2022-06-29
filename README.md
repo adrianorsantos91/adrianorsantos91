@@ -26,7 +26,9 @@
   <img align="center" alt="Ars-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ars-redux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
   <img align="center" alt="Ars-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ars-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="Ars-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Ars-Jest" height="40" width="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="50"/>
+  <img align="center" alt="Ars-RTL" height="40" width="50" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" width="40" height="50"/> 
   <img align="center" alt="Ars-Docker" height="40" width="50" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=050505">
   <img align="center" alt="Ars-Mysql" height="40" width="50" src="https://icongr.am/devicon/mysql-plain.svg?size=148&color=ffffff">
   <img align="center" alt="Ars-Nodejs" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=050505">  
@@ -37,8 +39,7 @@
   <img align="center" alt="Ars-Linux" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=148&color=currentColor">
   <img align="center" alt="Ars-Trello" height="40" width="50" src="https://icongr.am/devicon/trello-plain.svg?size=148&color=ffffff">
   <img align="center" alt="Ars-Slack" height="40" width="50" src="https://icongr.am/devicon/slack-original.svg?size=148&color=currentColor">
-  <img align="center" alt="Ars-Jest" height="40" width="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="50"/>
-  <img align="center" alt="Ars-RTL" height="40" width="50" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" width="40" height="50"/>
+ 
   <! – <img align="center" alt="Ars-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <! - <img align="center" alt="Ars-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <! - <img align="center" alt="Ars-Nginx" height="40" width="50" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=050505">
