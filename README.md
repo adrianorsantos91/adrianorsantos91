@@ -40,7 +40,7 @@
   <img align="center" alt="Ars-Trello" height="40" width="50" src="https://icongr.am/devicon/trello-plain.svg?size=148&color=ffffff">
   <img align="center" alt="Ars-Slack" height="40" width="50" src="https://icongr.am/devicon/slack-original.svg?size=148&color=currentColor">
  
-  <!-–-
+  <! -–-
   <img align="center" alt="Ars-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
   -->
   <! - <img align="center" alt="Ars-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
