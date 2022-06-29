@@ -43,6 +43,35 @@
   <img align="center" alt="Ars-Linux" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=148&color=currentColor">
   <img align="center" alt="Ars-Trello" height="40" width="50" src="https://icongr.am/devicon/trello-plain.svg?size=148&color=ffffff">
   <img align="center" alt="Ars-Slack" height="40" width="50" src="https://icongr.am/devicon/slack-original.svg?size=148&color=currentColor">
+  
+  <p align="left"> 
+  <p>New Icons</p>
+  <a href="https://git-scm.com/" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>  
+  <a href="https://jestjs.io" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  </a> 
+  <a  href="https://testing-library.com/"  rel="noreferrer">
+   <img src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" width="40" height="40"/>
+  </a>
+  <a href="https://www.linux.org/" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/"  rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://redux.js.org"  rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+  </a>
+ <a href="https://www.docker.com/"  rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/"  rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+ <a href="https://nodejs.org/en/"  rel="noreferrer">
+  <img src="https://www.stickersdevs.com.br/wp-content/uploads/2022/01/nodejs-logo-adesivo-sticker.png" alt="mysql" width="40" height="40"/>
+</a>
+</p>
 </div>
   <br></br>
 <div>
