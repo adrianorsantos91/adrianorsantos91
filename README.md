@@ -46,20 +46,12 @@
   
   <p align="left"> 
   <p>New Icons</p>
-  <a href="https://git-scm.com/" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>  
   <a href="https://jestjs.io" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
   </a> 
   <a  href="https://testing-library.com/"  rel="noreferrer">
    <img src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" width="40" height="40"/>
   </a>
-  <a href="https://www.linux.org/" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/"  rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
   <a href="https://redux.js.org"  rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
   </a>
