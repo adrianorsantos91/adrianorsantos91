@@ -38,15 +38,14 @@
   <img align="center" alt="Ars-Sequelize:" height="40" width="50" src="https://icongr.am/devicon/sequelize-original.svg?size=148&color=currentColor">
   <img align="center" alt="Ars-Linux" height="40" width="50" src="https://icongr.am/devicon/linux-original.svg?size=148&color=currentColor">
   <img align="center" alt="Ars-Trello" height="40" width="50" src="https://icongr.am/devicon/trello-plain.svg?size=148&color=ffffff">
-  <img align="center" alt="Ars-Slack" height="40" width="50" src="https://icongr.am/devicon/slack-original.svg?size=148&color=currentColor">
- 
-  <! - <img align="center" alt="Ars-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <! - <img align="center" alt="Ars-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <! - <img align="center" alt="Ars-Nginx" height="40" width="50" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=050505">
-  <! - <img align="center" alt="Ars-Mongodb" height="40" width="50" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=050505">
-  <! - <img align="center" alt="Ars-Angular" height="40" width="50" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=050505">
-  <! - <img align="center" alt="Ars-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <! - <img align="right" alt="Ars-pic" height="150" style="border-radius:50px;"     src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="center" alt="Ars-Slack" height="40" width="50" src="https://icongr.am/devicon/slack-original.svg?size=148&color=currentColor"> 
+  <!-- <img align="center" alt="Ars-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -->
+  <!-- <img align="center" alt="Ars-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+  <!-- <img align="center" alt="Ars-Nginx" height="40" width="50" src="https://icongr.am/devicon/nginx-original.svg?size=128&color=050505"> -->
+  <!-- <img align="center" alt="Ars-Mongodb" height="40" width="50" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=050505"> -->
+  <!-- <img align="center" alt="Ars-Angular" height="40" width="50" src="https://icongr.am/devicon/angularjs-original.svg?size=128&color=050505"> -->
+  <!-- <img align="center" alt="Ars-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+  <!-- <img align="right" alt="Ars-pic" height="150" style="border-radius:50px;"     src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676"> -->
   
 </div>
   <br></br>
