@@ -33,7 +33,8 @@ Linguagens e ferramentas:
   <img align="center" alt="Ars-RTL" height="40" width="50" src="https://testing-library.com/img/octopus-128x128.png" alt="RTL" width="40" height="50"/> 
   <img align="center" alt="Ars-Docker" height="40" width="50" src="https://icongr.am/devicon/docker-original-wordmark.svg?size=128&color=050505">
   <img align="center" alt="Ars-Mysql" height="40" width="50" src="https://icongr.am/devicon/mysql-plain.svg?size=148&color=ffffff">
-  <img align="center" alt="Ars-Nodejs" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=050505">  
+  <img align="center" alt="Ars-Nodejs" height="40" width="50" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=050505">
+<br></br>  
   <img align="center" alt="Ars-Git" height="40" width="50" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor">  
   <img align="center" alt="Ars-Express" height="50" width="60" src="https://icongr.am/devicon/express-original-wordmark.svg?size=148&color=ffffff">
   <img align="center" alt="Ars-PostgreSQL" height="40" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=148&color=currentColor">
