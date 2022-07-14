@@ -68,9 +68,9 @@ Linguagens e ferramentas:
 </p>
 </div>
 
-  <!--  [![Readme](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=hide)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme](https://github-readme-stats.vercel.app/api/pin/?username=adrianorsantos91&repo=Recipes-App&show_owner=hide)](https://github.com/adrianorsantos91/Recipes-App)
  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=hide)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=hide)](https://github.com/anuraghazra/github-readme-stats)
   
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=hide)](https://github.com/anuraghazra/github-readme-stats)
