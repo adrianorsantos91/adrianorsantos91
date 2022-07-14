@@ -67,3 +67,13 @@ Linguagens e ferramentas:
   <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats"> @anuraghazra</a>
 </p>
 </div>
+
+  <!--  [![Readme](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=hide)](https://github.com/anuraghazra/github-readme-stats)
+ 
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=hide)](https://github.com/anuraghazra/github-readme-stats)
+  
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=hide)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=hide)](https://github.com/anuraghazra/github-readme-stats) -->
